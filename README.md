@@ -11,13 +11,13 @@ Automate sending your resume to recruiters
 <strong align="center">Linux OS</strong>
 
 <p align="center">
-    <img src="https://i.ibb.co/YjmnzFz/Screenshot-select-area-20210706130025.png">
+    <img src="image/im.png">
 </p>
 
 <strong align="center">Windows OS</strong>
 
 <p align="center">
-    <img src="https://i.ibb.co/4tD14MR/Screenshot-select-area-20210706120917.png">
+    <img src="image/im-p.png">
 </p>
 
 # Installation
