@@ -31,7 +31,7 @@ pip3 install -r requirements.txt
 
 1. edit <code>conf/config.ini</code> file.
 <p align="center">
-    <img src="https://i.ibb.co/nRZbszG/Screenshot-select-area-20210706125503.png">
+    <img src="https://i.ibb.co/3vs9HCb/Capture-d-cran-2021-07-18-15.png">
 </p>
 
 - change <strong>SMTP_SERVER</strong> value to your mail server (if you will be using your Gmail account don't change the value).
