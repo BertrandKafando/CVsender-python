@@ -11,13 +11,13 @@ Automate sending your resume to recruiters
 <strong align="center">Linux OS</strong>
 
 <p align="center">
-    <img src="image/im.png">
+    <img src="">
 </p>
 
 <strong align="center">Windows OS</strong>
 
 <p align="center">
-    <img src="image/im-p.png">
+    <img src="https://i.ibb.co/TMFTMn3/Capture-d-cran-2021-07-18-152509.png">
 </p>
 
 # Installation
@@ -51,5 +51,5 @@ pip3 install -r requirements.txt
 
 # Result
 <p align="center">
-    <img src="https://i.ibb.co/YTJdY5n/Screenshot-select-area-20210706144431.png">
+    <img src="https://i.ibb.co/BVYpW7W/Capture-d-cran-2021-07-18-153604.png">
 </p>
